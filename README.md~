@@ -1,0 +1,4 @@
+SHKgroupInCart
+==============
+
+MODX Shopkeeper plugin
